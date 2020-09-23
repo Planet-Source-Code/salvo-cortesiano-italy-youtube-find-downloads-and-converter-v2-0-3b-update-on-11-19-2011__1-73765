@@ -1,0 +1,19 @@
+Supported file protocols:
+I.. = Input  supported
+.O. = Output supported
+..S = Seek   supported
+FLAGS NAME
+----- 
+I..   applehttp
+I.S   concat
+IOS   file
+IO.   gopher
+IOS   http
+I..   mmsh
+I..   mmst
+.O.   md5
+IO.   pipe
+IO.   rtmp
+IO.   rtp
+IO.   tcp
+IO.   udp
